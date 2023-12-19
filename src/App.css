@@ -1,0 +1,23 @@
+*{
+  /* margin: 0; */
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#books{
+  border: 2px solid black;
+}
+
+p{
+  font-size: small;
+  margin: 10px;
+}
+
+img{
+  height: 200px;
+  margin: 20px;
+}
+
+span{
+  font-size: larger;
+}
